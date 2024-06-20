@@ -25,3 +25,10 @@ MediScan is a Streamlit application for a Medical Recommendation System powered 
 ## Author
 - **Name**: Vedant Kale
 - **GitHub**: [github.com/VedantKale106](https://github.com/VedantKale106)
+
+- ## ScreenShots
+- ![1](https://github.com/VedantKale106/MediScan/assets/159442447/5802d431-c11b-45e8-b105-12a454227c02)
+![2](https://github.com/VedantKale106/MediScan/assets/159442447/df1d56fc-64d9-4e8b-8a46-7696dbfd6339)
+![3](https://github.com/VedantKale106/MediScan/assets/159442447/a07bda74-5c44-45cd-b86f-9020f03e4f97)
+![4](https://github.com/VedantKale106/MediScan/assets/159442447/bed232cb-0202-4953-b858-eb780c59d159)
+
