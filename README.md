@@ -1,6 +1,6 @@
 ## MediScan
 
-#Overview
+# Overview
 This repository contains a Streamlit application for a Medical Recommendation System powered by machine learning. The system predicts potential diseases based on user-selected symptoms from a dataset of synthetic medical data.
 
 # Features
