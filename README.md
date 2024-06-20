@@ -15,7 +15,7 @@ Pandas, NumPy: Data handling and manipulation.
 Scikit-learn: Machine learning library for model training and preprocessing.
 Altair: Interactive visualization library for data insights.
 # How to Use
-Clone the Repository: git clone https://github.com/yourusername/medical-recommendation-system.git
+Clone the Repository: git clone https://github.com/VedantKale106/MediScan.git
 Install Dependencies: pip install -r requirements.txt
 Run the App: streamlit run app.py
 
